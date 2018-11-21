@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "University of Debrecen, Medical Faculty"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "University of Debrecen, International Training Coordination Center"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Dean's Office, International Training Coordination Center, Nagyerdei krt. 98, H-4032 Debrecen, Hungary"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "hu"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "47.554517,21.624006"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Dec 1-2, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-12-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -48,6 +48,16 @@ eventbrite: 51195018679           # optional: alphanumeric key for Eventbrite re
 
 
 <h2 id="sponsors">Sponsors</h2>
+
+This course is funded through the Debrecen Venture Catapult Program
+(EFOP-3.6.1-16-2016-00022) implemented through the New Hungary Development Plan
+co-financed by the European Social Fund and the European Regional Development
+Fund. The course was organized with the technical support of ELIXIR-EUROPE
+within the Carpetries Collaboration programme of ELIXIR and Software Carpentry.
+More about ELIXIR <a href="https://www.elixir-europe.org">here</a>. More about
+Software Carpentries <a href="https://software-carpentry.org">here</a>.
+
+<!--
 This workshop is funded/supported by ...
 
 <div class="sponsor-logos">
@@ -63,7 +73,7 @@ Finally, this workshop is possible thanks to the collaboration of the following 
     <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="190"/>
   </a>
 </div>
-
+-->
 
 
 <h2 id="general">General Information</h2>
@@ -111,7 +121,7 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>. This is a computer room of the Medical Faculty located in the Dean's Office Building shared with the International Student Coordination Center. The place can be easily accessed by Tram no 1, "Egyetem tér" station.
 </p>
 {% endif %}
 
