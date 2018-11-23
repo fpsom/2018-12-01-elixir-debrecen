@@ -53,7 +53,7 @@ This course is funded through the Debrecen Venture Catapult Program
 (EFOP-3.6.1-16-2016-00022) implemented through the New Hungary Development Plan
 co-financed by the European Social Fund and the European Regional Development
 Fund. The course was organized with the technical support of ELIXIR-EUROPE
-within the Carpetries Collaboration programme of ELIXIR and Software Carpentry.
+within the Carpentries Collaboration programme of ELIXIR and Software Carpentry.
 More about ELIXIR <a href="https://www.elixir-europe.org">here</a>. More about
 Software Carpentries <a href="https://software-carpentry.org">here</a>.
 
